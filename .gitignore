@@ -1,0 +1,7 @@
+/NMOS_SWITCH-backups/
+
+fp-info-cache
+
+*.kicad_prl
+*.pdf
+*.zip
